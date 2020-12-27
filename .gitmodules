@@ -1,0 +1,9 @@
+[submodule "phd-thesis"]
+	path = phd-thesis
+	url = https://github.com/razvand/phd-thesis
+[submodule "cv"]
+	path = cv
+	url = https://github.com/razvand/cv
+[submodule "publications"]
+	path = publications
+	url = https://github.com/razvand/my-bibtex-publications
